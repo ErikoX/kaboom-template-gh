@@ -18,4 +18,6 @@ You can find 3 NPM Scripts in the project:
 
 `buildJs` - Starts `esbuild` (js bundler) in watch mode and bundles + minifies the javascript to `dist/dist.js` 
 
-`noMinifyJs` - (see buildJS, but the code is not minified)
+`noMinifyJs` - (see buildJS, but the code is not minified) 
+
+You can use this freely :D
