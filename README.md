@@ -5,7 +5,7 @@ A pre-made template for quick-starting a kaboom project.
 ## Contents
 
 
-** FILES **
+### FILES
 - index.js
   > The index.js file contains the webserver used to server the bundled javascript and html.
 - public (folder)
@@ -16,13 +16,13 @@ A pre-made template for quick-starting a kaboom project.
   > Contains the bundled "dist.js" and the index.html file.
 
 
-** NPM SCRIPTS **
+### NPM SCRIPTS
 - `runServer` starts the index.js file.
 - `testServer` starts the index.js file with nodemon (You can install nodemon with `npm i -g nodemon`)
 - `buildJs` bundles and minifies your javascript file.
 - `noMinifyJs` is the same as buildJs, but skips the minifying process.
 
-** SETUP **
+### SETUP
 1. Use the template to create a new repository
 2. Clone your new repository
 3. Run `npm install` to install all the required packages
