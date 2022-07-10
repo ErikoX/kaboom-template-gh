@@ -27,6 +27,6 @@ A pre-made template for quick-starting a kaboom project.
 2. Clone your new repository
 3. Run `npm install` to install all the required packages
 4. Edit dist/index.html or src/main.js
-5/6. Run the `buildJs` npm script and then run `runServer` to start hosting.
+5. Run the `buildJs` npm script and then run `runServer` to start hosting.
 
 *Additional info: The buildJs script is set to watch-mode. You only have to run it once and it will always bundle your javascript when you change something. It can also throw Javascript errors.*
