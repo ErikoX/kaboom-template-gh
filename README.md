@@ -33,4 +33,4 @@ A pre-made template for quick-starting a kaboom project.
 5. Run the `buildJs` npm script and then run `runServer` to start hosting.
 Alternatively the repository will publish to github pages after a push.
 
-*Additional info: The buildJs script is set to watch-mode. You only have to run it once and it will always bundle your javascript when you change something. It can also throw Javascript errors.*
+*Additional info: The buildJs script is set to watch-mode. You only have to run it once and it will always bundle your javascript when you change something. It can also throw Javascript errors. If you want to only build once, run the buildJsOnce script.*
