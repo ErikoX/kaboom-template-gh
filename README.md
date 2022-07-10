@@ -7,6 +7,8 @@ A pre-made template for quick-starting a kaboom project.
 ### Actions
 `pages.yml` publishes your website automatically on every push to Github Pages. Make sure your code is working /shrug
 
+Make sure you set up Github Pages in the repository settings and set the branch to "gh-pages"!
+
 ### FILES
 - index.js
   - The index.js file contains the webserver used to server the bundled javascript and html.
