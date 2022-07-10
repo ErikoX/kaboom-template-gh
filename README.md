@@ -4,6 +4,8 @@ A pre-made template for quick-starting a kaboom project.
 
 ## Contents
 
+### Actions
+`pages.yml` publishes your website automatically on every push to Github Pages. Make sure your code is working /shrug
 
 ### FILES
 - index.js
